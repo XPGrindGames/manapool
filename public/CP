@@ -1,0 +1,3 @@
+git add public/images/mana-orb.png
+git commit -m "Ensure mana orb image is in public folder"
+git push
